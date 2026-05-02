@@ -94,5 +94,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Developed with ❤️ for secure communication.
+  Developed with for secure communication.
 </p>
